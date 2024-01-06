@@ -14,4 +14,39 @@ Website Uptime Checker is a simple Flask web application that allows you to moni
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/website-uptime-checker.git
+   git clone https://github.com/aloysiuspattath/uptimechecker.git
+
+## Install dependencies
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+## Run app.py
+
+3. Run app.py script:
+   ```bash
+   pip install -r requirements.txt
+
+The application will be accessible at http://127.0.0.1:5000 in your web browser.
+
+Open the web browser and navigate to the application.
+
+Add websites to the monitoring list by providing the URL and name.
+
+Set the checking interval for monitoring.
+
+View the real-time status of each website.
+
+Optionally, remove websites from the monitoring list
+
+
+## Technologies Used
+**   Flask
+   SQLAlchemy (SQLite for database)
+   Socket.IO for real-time updates
+   APScheduler for periodic task scheduling**
+
+   ChatGPT - Made with the help of ChatGPT
+
+
