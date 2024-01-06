@@ -42,11 +42,10 @@ Optionally, remove websites from the monitoring list
 
 
 ## Technologies Used
-**   Flask
+   Flask
    SQLAlchemy (SQLite for database)
    Socket.IO for real-time updates
-   APScheduler for periodic task scheduling**
-
+   APScheduler for periodic task scheduling
    ChatGPT - Made with the help of ChatGPT
 
 
